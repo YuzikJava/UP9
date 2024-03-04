@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "author": "Погода в Париже",
+      "authorAvatar": "@sample/paris",
+      "published": "25 февраля в 10:00",
+      "content": "Cегодня ожидается снегопад",
+      "likedByMe": true,
+      "likes": 100,
+      "shares": 16
+    }
+  ]
+}
+
